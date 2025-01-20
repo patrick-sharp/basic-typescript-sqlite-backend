@@ -1,3 +1,7 @@
+# what this is
+
+This is a stub for a basic rest server with a sqlite database
+
 # How to run:
 
 ## In one terminal
